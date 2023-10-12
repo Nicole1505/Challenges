@@ -9,6 +9,7 @@ import { FetchComponent } from './FetchComponent.jsx'
 import { MultipleCustom } from './MultipleCustom.jsx'
 import { Father } from './Father.jsx'
 import { TodoApp } from './TodoApp.jsx'
+import { TodoApp1 } from './Challenge11/Components/TodoApp1.jsx'
 import './index.css'
 
 
@@ -23,6 +24,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <MultipleCustom/>
     <Father />
     <TodoApp/>
+    <TodoApp1/>
     
     
   </React.StrictMode>,
